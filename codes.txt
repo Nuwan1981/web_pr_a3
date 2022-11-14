@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Travel Sri Lanka</title>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 30px;
+  background: #ffe0b3;
+}
+
+.header {
+  padding: 5px;
+  text-align: center;
+  height: 200px;
+  background: #8c8c8c;
+  opacity: 0.8;
+  background: url("img/home-banner2.jpg") 0,0 ;
+  background-repeat: repeat-x;
+  object-fit: none;
+  color: #f2f2f2;
+}
+
+.header h1 {
+  font-size: 50px;
+  color: #ff884d;
+  text-shadow: 3px 3px #000000;
+}
+
+.fakeimg {
+  background-color: #aaa;
+  background: url("img/cover.jpg") 0,0 ;
+  width: 100%;
+  padding: 20px;
+  object-fit: fill;
+}
+.fakeimg1 {
+  background-color: #aaa;
+  background: url("img/sigiriya1.jpg") 0,0 ;
+  width: 100%;
+  padding: 20px;
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  opacity: 0.8;
+}
+
+.fakeimg2 {
+  background-color: #aaa;
+  background: url("img/nuwara-eliya1.jpg") 0,0 ;
+  width: 100%;
+  padding: 20px;
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  opacity: 0.8;
+}
+
+.fakeimg3 {
+  background-color: #aaa;
+  background: url("img/galle1.jpg") 0,0 ;
+  width: 100%;
+  padding: 20px;
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  opacity: 0.8;
+}
+
+.fakeimg4 {
+  background-color: #aaa;
+  background: url("img/trinco1.jpg") 0,0 ;
+  width: 100%;
+  padding: 20px;
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  opacity: 0.8;
+}
+
+.fakeimg5 {
+  background-color: #aaa;
+  background-image: url("img/profile.JPG");
+  width: 100%;
+  padding: 20px;
+}
+
+.fakeimg6 {
+  background-color: #aaa;
+  background-image: url("img/link.png");
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+.footer {
+  font-family: Arial;
+  font-size: 12px;
+  padding: 20px;
+  text-align: left;
+  background: #0e0e3f;
+  margin-top: 20px;
+  color: #f2f2f2;
+ }
+}
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Travel Sri Lanka</h1>
+  <h3 style="text-decoration-line: overline underline; text-decoration-thickness: 15%; text-shadow: 2px 2px #000000; color: #ff80bf">A Journey to The Paradise Island</h3>
+</div>
+
+  <div class="card">
+     <div class="fakeimg" style="height:300px; opacity: 0.8; color:#fff; text-shadow: 2px 2px #000000;"><h2>“Sri Lanka, also once known as the "Pearl of the Indian Ocean, is a country endowed with a glorious historical and cultural heritage that spreads through centuries. It is an island distinct from any other country, which is blessed with an abundance of natural beauty and attractions."</h2><p><i>-www.mondaq.com-</i></p></div>
+    </div>
+
+
+    <div class="card">
+      <div class="fakeimg1" style="height:200px;"><h3>Sigiriya</h3></div>
+      <p>"Sigiriya Lion Rock is an ancient rock fortress known for its massive column of rock that reaches nearly 200 meters high. The site dates back to the reign of King Kasyapa (477-495 AD), who chose this site as his new capital. He decorated the walls with frescoes, and built an impressive palace right on top of the rock column, accessible only through the mouth of an enormous carved lion."</p><br/><p><i>-www.sigiriyafortress.com-</i></p>
+	</div>
+
+      
+    <div class="card">
+      <div class="fakeimg2" style="height:200px;"><h3>Up-Country</h3></div>
+      <p>"The 'Hill Country' or 'Up Country' are terms broadly used to describe the mountainous regions of the centre of Sri Lanka. Covered with tea plantations and National Parks, these beautiful hills and mountains are home to some of the country's most unique and historic accommodation. The cool climate provides a beautiful contrast with the often scorching coastline."</p><br/><p><i>-www.experiencetravelgroup.com-</i></p>
+    
+    <div class="card">
+    <div class="fakeimg3" style="height:200px;"><h3>Down-South</h3></div>
+    <p>"The Down south of Sri Lanka is one of the best-kept secrets in the Asian Region. However, that secret is quickly revealed as more and more travellers gather to Sri Lanka to its stunning beaches, incredible wildlife, rich culture, and classical heritage landmarks. Unless origin or complete their Sri Lanka travel route in the south, most travellers are a fascinating part of the countryside to travel if you have a few days in Sri Lanka. Although that area is packed with the most excellent beaches in Sri Lanka, the south shore offers much beyond its sandy coastline."</p><br/><p><i>-www.srilankatravelpages.com-</i></p>
+    
+    <div class="card">
+    <div class="fakeimg4" style="height:200px;"><h3>The East Coast</h3></div>
+    <p>"Maybe you're searching for somewhere in Sri Lanka a little less developed, a coastline that retains a more earthy, local feel. Or maybe you just want the best beach of your life. Well, the East might just offer that place and that beach."</p></br><p><i>-www.lonelyplanet.com-</i></p>
+    </div>
+  </div>
+
+
+<div class="footer">
+  <p>Webpage created by Nuwan Dassanayake.</p>
+  <p>All rights of images appearing in this website reserved by their respecive owners.</p>
+</div>
+
+</body>
+</html>
+
+
